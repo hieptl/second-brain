@@ -1,9 +1,11 @@
+---
+triggers:
+- tell-me-a-joke
+---
+
 # Tell Me a Joke
 
 This microagent tells a random joke when triggered.
-
-## Triggers
-- tell-me-a-joke
 
 ## Jokes Collection
 
