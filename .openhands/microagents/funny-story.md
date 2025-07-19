@@ -1,0 +1,1 @@
+---\ntriggers:\n  - funny-story\n---\n\nTell me a funny story
