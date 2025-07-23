@@ -1,6 +1,7 @@
 ---
 triggers:
 - great-story
+- story-teller
 ---
 
 # Great Story Teller
