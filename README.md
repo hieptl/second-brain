@@ -1,4 +1,4 @@
-# Second Brain - OpenHands Microagents
+# Second Brain - OpenHands Microagents.
 
 This repository contains microagents for OpenHands AI assistant.
 
