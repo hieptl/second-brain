@@ -9,6 +9,13 @@ This repository contains microagents for OpenHands AI assistant.
 - **Description**: Tells a random joke when triggered
 - **Trigger**: `tell-me-a-joke`
 
+## Python Programs
+
+### Number Addition Program
+- **File**: `add_numbers.py`
+- **Description**: A Python program for adding two numbers with interactive input and error handling
+- **Usage**: Run `python3 add_numbers.py` for interactive mode, or import the `add_numbers` function for programmatic use
+
 ## How to Use
 
 To use a microagent, simply use its trigger phrase when talking to OpenHands.
@@ -33,5 +40,6 @@ tell-me-a-joke
 │   └── microagents/
 │       └── tell-me-a-joke.md
 ├── README.md
+├── add_numbers.py
 └── tell-me-a-joke -> .openhands/microagents/tell-me-a-joke.md
 ```
