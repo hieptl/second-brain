@@ -5,6 +5,7 @@ This repository contains microagents for OpenHands AI assistant.
 ## Available Microagents
 
 ### Tell Me a Joke
+
 - **File**: `.openhands/microagents/tell-me-a-joke.md`
 - **Description**: Tells a random joke when triggered
 - **Trigger**: `tell-me-a-joke`
@@ -14,6 +15,7 @@ This repository contains microagents for OpenHands AI assistant.
 To use a microagent, simply use its trigger phrase when talking to OpenHands.
 
 Example:
+
 ```
 tell-me-a-joke
 ```
@@ -35,3 +37,5 @@ tell-me-a-joke
 ├── README.md
 └── tell-me-a-joke -> .openhands/microagents/tell-me-a-joke.md
 ```
+
+To run the microagents, run the following command:
